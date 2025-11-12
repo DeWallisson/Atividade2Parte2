@@ -11,4 +11,4 @@
 4 - Execute uma das questões com o seguinte comando: node src/questao1.js
 
 OBS.:
-(Mude o nome da questão desse comando alterando o que está escrito após o "/", por exemplo "node src/questao2.js" para testar a questão 2 e assim por diante!)
+Mude o nome da questão desse comando alterando o que está escrito após o "/", por exemplo "node src/questao2.js" para testar a questão 2 e assim por diante!
