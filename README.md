@@ -1,6 +1,6 @@
-Atividade 2 Parte 2 - Manipulação de Strings e JSON em JavaScript.
+# Atividade 2 Parte 2 - Manipulação de Strings e JSON em JavaScript.
 
-Como executar:
+## Como executar:
 
 1 - Certifique-se de ter o Node.js instalado.
 
